@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 375 375" style="enable-background:new 0 0 375 375;" xml:space="preserve">
+<style type="text/css">
+	.st0{enable-background:new    ;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#ECECEC;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#F5A430;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#9F9F9F;}
+	.st5{fill:#3A3A3A;}
+	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:#24A15C;}
+	.st7{fill:#535353;}
+</style>
+<g id="frame_1_" class="st0">
+	<g id="frame">
+		<g>
+			<circle class="st1" cx="187.5" cy="187.5" r="187.5"/>
+		</g>
+	</g>
+</g>
+<g id="icon_1_">
+	<g id="paper">
+		<g>
+			<rect x="108.75" y="102" class="st2" width="157.5" height="187.5"/>
+		</g>
+	</g>
+	<g id="clipBoard">
+		<g>
+			<polygon class="st3" points="225,79.5 225,102 266.25,102 266.25,289.5 108.75,289.5 108.75,102 150,102 150,79.5 93.75,79.5 
+				93.75,304.5 281.25,304.5 281.25,79.5 			"/>
+		</g>
+	</g>
+	<g id="clip">
+		<g>
+			<rect x="162.5" y="75.5" class="st4" width="50" height="31.25"/>
+		</g>
+		<g>
+			<path class="st5" d="M207.5,80.5v21.25h-40V80.5H207.5 M217.5,70.5h-60v41.25h60V70.5L217.5,70.5z"/>
+		</g>
+	</g>
+	<g id="content_1_">
+		<g id="lines">
+			<g>
+				<path class="st6" d="M118.5,255.75h93.75v-15H118.5V255.75z M118.5,128.25v15h93.75v-15H118.5z M118.5,218.25h93.75v-15H118.5
+					V218.25z M118.5,180.75h93.75v-15H118.5V180.75z"/>
+			</g>
+		</g>
+		<g id="boxes">
+			<g>
+				<path class="st7" d="M247.75,128v16.25H231.5V128H247.75 M247.75,165.5v16.25H231.5V165.5H247.75 M247.75,203v16.25H231.5V203
+					H247.75 M247.75,240.5v16.25H231.5V240.5H247.75 M252.75,123H226.5v26.25h26.25V123L252.75,123z M252.75,160.5H226.5v26.25
+					h26.25V160.5L252.75,160.5z M252.75,198H226.5v26.25h26.25V198L252.75,198z M252.75,235.5H226.5v26.25h26.25V235.5L252.75,235.5
+					z"/>
+			</g>
+		</g>
+		<g id="ticks">
+			<g>
+				<path class="st6" d="M231.294,247.524l10.143,10.143l4.057-4.057l-10.143-10.143L231.294,247.524z M245.494,141.11l14.2-14.2
+					l-4.057-4.057l-14.2,14.2l-6.086-6.086l-4.057,4.057l10.143,10.143L245.494,141.11z M241.437,249.553l4.057,4.057l14.2-14.2
+					l-4.057-4.057L241.437,249.553z M231.294,172.524l10.143,10.143l4.057-4.057l-10.143-10.143L231.294,172.524z M241.437,212.053
+					l-6.086-6.086l-4.057,4.057l10.143,10.143l4.057-4.057l14.2-14.2l-4.057-4.057L241.437,212.053z M241.437,174.553l4.057,4.057
+					l14.2-14.2l-4.057-4.057L241.437,174.553z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

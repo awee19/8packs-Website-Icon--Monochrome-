@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 375 375" style="enable-background:new 0 0 375 375;" xml:space="preserve">
+<style type="text/css">
+	.st0{enable-background:new    ;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#ECECEC;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#CC8217;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style>
+<g id="frame_1_" class="st0">
+	<g id="frame">
+		<g>
+			<circle class="st1" cx="187.5" cy="187.5" r="187.5"/>
+		</g>
+	</g>
+</g>
+<g id="icon_1_">
+	<g id="pad">
+		<g>
+			<path class="st2" d="M273.75,171.75h-172.5c-4.142,0-7.5,3.358-7.5,7.5V295.5c0,4.142,3.358,7.5,7.5,7.5h172.5
+				c4.142,0,7.5-3.358,7.5-7.5V179.25C281.25,175.108,277.892,171.75,273.75,171.75z M195,252.679V265.5c0,4.142-3.358,7.5-7.5,7.5
+				c-4.142,0-7.5-3.358-7.5-7.5v-12.821c-6.62-2.894-11.25-9.492-11.25-17.179c0-10.355,8.395-18.75,18.75-18.75
+				c10.355,0,18.75,8.395,18.75,18.75C206.25,243.187,201.62,249.785,195,252.679z"/>
+		</g>
+	</g>
+	<g id="metal">
+		<g>
+			<path class="st3" d="M243.563,108c-0.121-17.719-13.109-36.158-56.157-36c-41.851,0.154-56.942,18.324-56.906,36
+				c0.059,28.482,0.059,56.828,0.059,56.828h21.637c0,0,0-36.307,0.018-56.828c0.013-14.93,18.518-14.25,35.192-14.25
+				c15.925,0,34.253-0.26,34.443,14.25c0.271,20.716,0.271,56.828,0.271,56.828h21.637C243.757,164.828,243.757,136.482,243.563,108
+				z"/>
+		</g>
+	</g>
+</g>
+</svg>

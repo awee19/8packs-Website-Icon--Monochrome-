@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 375 375" xml:space="preserve">
+<g id="frame_1_">
+	<g id="frame">
+		<circle fill-rule="evenodd" fill="#ECECEC" cx="187.5" cy="187.5" r="187.5"/>
+	</g>
+</g>
+<g id="icon_1_">
+	<g id="paper">
+		<polygon fill="#FFFFFF" points="86.25,63.75 86.25,311.25 288.75,311.25 288.75,113.25 244.5,63.75 		"/>
+	</g>
+	<g id="paperShadow">
+		<polygon fill-rule="evenodd" fill="#B9B9B9" points="244.5,63.75 244.5,113.25 288.75,113.25 		"/>
+	</g>
+	<g id="lines">
+		<path fill-rule="evenodd" fill="#535353" d="M225,114.75H112.5v7.5H225V114.75z M112.5,264h150v-7.5h-150V264z M225,86.25H112.5
+			v7.5H225V86.25z M112.5,179.25h150v-7.5h-150V179.25z M112.5,235.5h150V228h-150V235.5z M112.5,143.25v7.5h150v-7.5H112.5z
+			 M112.5,207h150v-7.5h-150V207z"/>
+	</g>
+	<g id="tick">
+		<polygon fill-rule="evenodd" fill="#24A15C" points="272.209,267.818 250.996,289.031 243.041,281.076 237.738,286.379 
+			250.996,299.637 277.512,273.121 		"/>
+	</g>
+</g>
+</svg>
